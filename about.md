@@ -1,9 +1,5 @@
 ---
-<!DOCTYPE html>
-<html>
-<body>
-
-<p><a href="https://www.linkedin.com/in/daxaniie-selvaraj/">LinkedIn</a></p>
-
-</body>
-</html>
+layout: page
+title : LinkedIn
+permalink: <a href="https://www.linkedin.com/in/daxaniie-selvaraj/">LinkedIn</a>
+---
