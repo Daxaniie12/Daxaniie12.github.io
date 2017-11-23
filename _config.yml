@@ -7,3 +7,15 @@
 
 # Site settings
 title: Welcome!
+email: daxaniie12@gmail.com
+description:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+twitter_username:
+github_username:
+paginate: 5
+theme-dark: false #Set to true to change to dark website theme
+
+gems: [jekyll-paginate, kramdown]
+# Build settings
+markdown: kramdown
