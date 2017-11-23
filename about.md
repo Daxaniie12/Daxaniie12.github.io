@@ -18,7 +18,7 @@ permalink: /LinkedIn/
 ```
   - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
   - Name the file according to the format YY-MM-DD-[short name for your post].<br>  <code>2016-03-30-i-love-design.markdown</code><br>
-  - Write the <a href="jekyll">Front Matter</a> and content in the file.<br>
+  - Write the <a href="https://www.linkedin.com/in/daxaniie-selvaraj/">Front Matter</a> and content in the file.<br>
   <div class="example">
     <span class='manual'>FORMAT</span><BR>
     <pre>---
@@ -60,7 +60,7 @@ categories: ["life", "friends"]
 ```
   - Create a .md file in the root directory.<br>
   - Name the file with the desired page link name.<br>  <code>LinkedIn.md</code><br><code>design.md</code><br>
-  - Write the <a href="jekyll">Front Matter</a> and content in the file.
+  - Write the <a href="https://www.linkedin.com/in/daxaniie-selvaraj/">Front Matter</a> and content in the file.
   <div class="example">
     <span class='manual'>FORMAT</span><BR>
     <pre>---
@@ -110,7 +110,7 @@ tagline : "Humanity is overrated."
 ```
   - Create a .md file in the root directory.<br>
   - Name the file. Preferred name will be the name of the category<br>  <code>life.md</code><br>
-  - Write the <a href="jekyll">Front Matter</a> and content in the file.
+  - Write the <a href="https://www.linkedin.com/in/daxaniie-selvaraj/">Front Matter</a> and content in the file.
   <div class="example">
     <span class='manual'>FORMAT</span><BR>
 <pre>---
