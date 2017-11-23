@@ -1,14 +1,9 @@
 ---
-layout: page
-title : LinkedIn
-permalink: /LinkedIn/
----
-
 <!DOCTYPE html>
 <html>
 <body>
 
-<p><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a></p>
+<p><a href="https://www.linkedin.com/in/daxaniie-selvaraj/">LinkedIn</a></p>
 
 </body>
 </html>
